@@ -1,0 +1,11 @@
+{"game":[
+	{"width": 50,
+		"heigth": 50,
+		"interval": 50,
+		"iteration":100,
+		"glider": false,
+		"gosper": false,
+		"mov-file": false
+	}
+]
+}
